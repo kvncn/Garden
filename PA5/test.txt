@@ -1,0 +1,20 @@
+rows: 1
+cols: 16
+
+plant (0,0) pine
+PLANT (0,1) banana
+PLANT (0,2) willow
+PLANT (0,3) oak
+PLANT (0,4) coconut
+PLANT (0,5) sunflower
+PLANT (0,6) rose
+PLANT (0,7) lily
+PLANT (0,8) daisy
+PLANT (0,9) iris
+PLANT (0,10) tulip
+PlAnT (0,11) lettuce
+plant (0,12) garlic
+plant (0,13) yam
+print
+grow 4 
+print
